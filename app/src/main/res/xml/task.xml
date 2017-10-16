@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tasks>
+    <task>
+        <name>Task1</name>
+        <index>1</index>
+        <testCount>20</testCount>
+    </task>
+    <task>
+        <name>Task2</name>
+        <index>2</index>
+        <testCount>30</testCount>
+    </task>
+    <task>
+        <name>Task3</name>
+        <index>3</index>
+        <testCount>40</testCount>
+    </task>
+</tasks>
